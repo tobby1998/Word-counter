@@ -19,5 +19,5 @@ python word_counter.py
 3. the result will be writen in the file named `result.txt`
 
 # weitere Optimierung
-1 Verbesserung bei der Verarbeitung von verschiedenen Abkürzung, wie z.B. u.a.
-2 Mit einem Text einen Stopwordlist automatisch herrzustellen. So kann man nur die Fremdwörter von bestimmtem Text ausziehen.
+1. Verbesserung bei der Verarbeitung von verschiedenen Abkürzung, wie z.B. u.a.
+2. Mit einem Text einen Stopwordlist automatisch herrzustellen. So kann man nur die Fremdwörter von bestimmtem Text ausziehen.
