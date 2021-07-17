@@ -7,6 +7,7 @@ Wörte-Frequenz rechnen
 # requirs
 - python 3.x
 - nltk(to run it properly, maybe you will need the files in "ntlk_data")
+- HanTa
 
 # how to use
 1. put your text file into the path `wordcounter`, for example, a file named "sophiesworld_1_to_2.txt"
